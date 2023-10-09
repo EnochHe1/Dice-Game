@@ -9,7 +9,7 @@ As well, this project is my first project using JavaScript!
 
 ## Controls
 
-Each player must simply click their respective ```Roll``` button to roll their dice and add to their score.
+Each player must simply click their respective ```Roll!``` button to roll their dice and add to their score.
 
 
 
